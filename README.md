@@ -21,7 +21,7 @@ This project represents my skills in front-end development, state management, an
 - CSS Modules
 
 ## About Me
-I am Moaaz Besher, a Computer and Informatics student at Zagazig University based in Egypt, with practical experience in software testing, web development, and mobile application development. Skilled in Java, Selenium, Flutter, Firebase, and modern web technologies. I have developed several real-world projects, including management systems, mobile applications, and automation testing frameworks, with a strong focus on software quality, problem-solving, and continuous professional growth.
+Moaaz Besher, a Computer and Informatics student at Zagazig University based in Egypt, with practical experience in software testing, web development, and mobile application development. Skilled in Java, Selenium, Flutter, Firebase, and modern web technologies. I have developed several real-world projects, including management systems, mobile applications, and automation testing frameworks, with a strong focus on software quality, problem-solving, and continuous professional growth.
 
 ## Credits
 - [XP.css](https://github.com/botoxparty/XP.css) - For some CSS pre-styled components like buttons and scrollbars.
